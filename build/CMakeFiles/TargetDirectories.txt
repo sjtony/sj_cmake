@@ -1,0 +1,3 @@
+/home/sj/sj_learn/cmake_good/build/CMakeFiles/cmake_good.dir
+/home/sj/sj_learn/cmake_good/build/CMakeFiles/edit_cache.dir
+/home/sj/sj_learn/cmake_good/build/CMakeFiles/rebuild_cache.dir
