@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "../sj_lib/foo.h"  /* Include the header here, to obtain the function declaration */
+#include "sj_lib/foo.h"  /* Include the header here, to obtain the function declaration */
 
 int main(void)
 {
